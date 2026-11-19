@@ -1,0 +1,129 @@
+  0
+SECTION
+  2
+HEADER
+  9
+$ACADVER
+  1
+AC1032
+  9
+$DWGCODEPAGE
+  3
+ANSI_1251
+  0
+ENDSEC
+  0
+SECTION
+  2
+CLASSES
+  0
+CLASS
+  1
+ACDBDICTIONARYWDFLT
+  0
+ENDSEC
+  0
+SECTION
+  2
+ENTITIES
+  0
+LWPOLYLINE
+  5
+2A
+330
+1F
+100
+AcDbEntity
+  8
+0
+ 62
+     1
+100
+AcDbPolyline
+ 90
+        3
+ 70
+     0
+ 43
+0.0
+ 10
+0.0
+ 20
+0.0
+ 10
+100.0
+ 20
+0.0
+ 42
+0.5
+ 10
+100.0
+ 20
+50.0
+1001
+ACAD
+1010
+5000.0
+1020
+5000.0
+1040
+3.5
+  0
+MTEXT
+  5
+2B
+330
+1F
+100
+AcDbEntity
+  8
+0
+100
+AcDbMText
+ 10
+10.0
+ 20
+40.0
+ 30
+0.0
+ 40
+5.0
+ 41
+0.0
+ 71
+     1
+ 72
+     5
+  1
+Привіт, світ (UTF-8 R2018)
+ 73
+     1
+ 44
+1.0
+101
+Embedded Object
+ 70
+     1
+ 10
+1.0
+ 20
+0.0
+ 11
+10.0
+ 21
+40.0
+ 40
+99.0
+  0
+ENDSEC
+  0
+SECTION
+  2
+OBJECTS
+  0
+DICTIONARY
+  5
+C
+  0
+ENDSEC
+  0
